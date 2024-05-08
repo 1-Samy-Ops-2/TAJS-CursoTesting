@@ -1,0 +1,16 @@
+{
+  "name": "tajs-cursotesting",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "SamuelG",
+  "license": "ISC",
+  "engines": {
+    "node": "v18.17.0"
+  }
+}
